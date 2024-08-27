@@ -33,7 +33,7 @@
     "core-js": "^3.27.1",
     "terser-webpack-plugin": "^5.3.6",
     "tslib": "^2.4.1",
-    "webpack": "^5.75.0",
+    "webpack": "^5.94.0",
     "webpack-merge": "^5.8.0",
     "workbox-build": "^6.5.4",
     "workbox-precaching": "^6.5.4",
