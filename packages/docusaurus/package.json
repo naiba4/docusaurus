@@ -94,7 +94,7 @@
     "semver": "^7.3.8",
     "serve-handler": "^6.1.5",
     "shelljs": "^0.8.5",
-    "terser-webpack-plugin": "^5.3.6",
+    "terser-webpack-plugin": "^5.3.11",
     "tslib": "^2.4.1",
     "update-notifier": "^5.1.0",
     "url-loader": "^4.1.1",
