@@ -24,7 +24,7 @@
     "file-loader": "^6.2.0",
     "fs-extra": "^11.1.0",
     "github-slugger": "^1.5.0",
-    "globby": "^11.1.0",
+    "globby": "^14.1.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.0",
     "lodash": "^4.17.21",
@@ -33,7 +33,7 @@
     "shelljs": "^0.8.5",
     "tslib": "^2.4.1",
     "url-loader": "^4.1.1",
-    "webpack": "^5.75.0"
+    "webpack": "^5.98.0"
   },
   "engines": {
     "node": ">=16.14"
